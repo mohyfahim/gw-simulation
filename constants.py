@@ -1,0 +1,8 @@
+BROKER_URL = "mqtt.giot.ir"
+BROKER_PORT = 1883
+PUB_TOPIC = "scps/client"
+SUB_TOPIC = "scps/server"
+
+ADDRESSES = ["11:22:33:44:55:66","66:55:44:33:22:11","22:11:33:44:55:66"]
+
+DELAY_TIMER = 10
